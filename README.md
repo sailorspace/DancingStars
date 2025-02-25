@@ -1,2 +1,3 @@
 # DancingStars
-gRPC Microservice Services Architectural Design
+Comet -> Life like AI(LLA) 
+Lines and Joints
